@@ -11,7 +11,7 @@ Welcome to ProTracker! It's like a fancier to-do list. track daily tasks, and pr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ProTracker.git
+    git clone https://github.com/D-Justin-Dsouza/ProTracker.git
     ```
 2. Navigate to the project directory:
     ```bash
